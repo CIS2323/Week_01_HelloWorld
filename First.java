@@ -1,3 +1,8 @@
+/**
+ * @author Robert Rockers
+ * This is a JavaDoc Comment to demonstrate
+ * Hello World
+ */
 public class First {
 	/* This is a
 		Multi-line Comment */
